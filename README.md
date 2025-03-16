@@ -39,7 +39,7 @@
 ### 📫 How to Reach Me  
 - **Email:** [perisettyraja@gmail.com](mailto:perisettyraja@gmail.com)  
 - **Phone:** [+91 9441229599](tel:+919441229599)  
-- **GitHub:** [satya123182](https://github.com/satya123182)  
+- **GitHub:** [satya12318204](https://github.com/satya12318204)  
 - **LinkedIn:** [Satya Perisetty](https://www.linkedin.com/in/satya-perisetty-8410aa262)  
 
 ---
