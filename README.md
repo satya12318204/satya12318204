@@ -18,7 +18,7 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 
 ## 💼 Professional Experience
 
-### 🧠 Single Point Solutions — *Gen AI Intern*  
+### Single Point Solutions — *Gen AI Intern*  
 📍 Hyderabad, Telangana | **June 2025 – July 2025**  
 - Designed and implemented **end-to-end Generative AI pipelines**, reducing manual content creation effort by ~30%.  
 - Trained a **DCGAN on the CelebA dataset** to generate realistic face images with stable convergence.  
@@ -27,7 +27,7 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 
 ---
 
-### 🎨 Kumar’s Innovations — *Front End Intern*  
+### Kumar’s Innovations — *Front End Intern*  
 🌐 Remote | **Dec 2024 – Jan 2025**  
 - Built a **responsive company website using React**, improving performance and cross-device usability.  
 - Collaborated with a remote team of 4+ members to deliver milestones on time.  
@@ -35,7 +35,7 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 
 ---
 
-### ⚙️ Reva Solutions — *Backend Development Intern*  
+### Reva Solutions — *Backend Development Intern*  
 📍 Hyderabad, Telangana | **May 2024 – July 2024**  
 - Developed **RESTful APIs** using **Node.js and Express** for processing network telemetry data.  
 - Improved backend reliability and optimized data retrieval for visualization systems.  
@@ -46,7 +46,7 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 
 ## 🧩 Projects
 
-### 🍽️ Hunger Hearts — Full Stack Food Donation Platform  
+### Hunger Hearts — Full Stack Food Donation Platform  
 **Tech:** MERN Stack, Next.js, MongoDB, Express  
 - Designed a platform connecting **NGOs and donors** with secure role-based access.  
 - Implemented **JWT authentication** and protected REST APIs.  
@@ -54,7 +54,7 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 
 ---
 
-### 🎬 CineSurf — Movie Review Platform  
+### CineSurf — Movie Review Platform  
 **Tech:** MongoDB, Express, EJS  
 - Developed a server-side rendered movie review system.  
 - Implemented full **CRUD operations** for movies and reviews.  
@@ -62,7 +62,7 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 
 ---
 
-### ✍️ PoemGeneration — GPT-2 Based NLP System  
+### PoemGeneration — GPT-2 Based NLP System  
 **Tech:** Python, Transformers, NLP, Streamlit  
 - Fine-tuned **GPT-2** on custom poetry datasets.  
 - Built preprocessing pipelines for text normalization.  
