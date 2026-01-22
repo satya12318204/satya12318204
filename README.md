@@ -113,7 +113,6 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 
 ### Google Developer Group (GDG), IIIT SriCity  
 **Core Member | 2023 – 2024**  
-- Led **AI/ML and full-stack learning initiatives**.  
 - Organized workshops, hackathons, and tech sessions for **100+ students**.  
 
 ---
