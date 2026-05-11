@@ -79,6 +79,16 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 
 ---
 
+### Number Guessing Game — GUI-based Java Application  
+**Tech:** Core Java, JavaFX, Maven  
+- Developed an interactive number guessing game with a polished GUI using **JavaFX framework**.  
+- Implemented game logic allowing players to guess a random number (1-100) with up to 10 attempts.  
+- Provided real-time feedback ("Too High!" or "Too Low!") to guide user choices.  
+- Built using **Maven** for dependency management and packaged as a standalone JAR for native deployment.  
+- Optimized for cross-platform execution with double-click JAR file support.  
+
+---
+
 ## 🛠️ Skills
 
 ### 👨‍💻 Programming Languages
@@ -93,12 +103,14 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 - Node.js  
 - Express.js  
 - EJS  
+- JavaFX  
 
 ### 🧰 Tools & Technologies
 - Git & GitHub  
 - Postman  
 - MongoDB, MySQL  
 - Docker  
+- Maven  
 - VS Code  
 
 ### 🧠 Concepts
@@ -107,6 +119,7 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 - Generative AI & ML Basics  
 - DBMS  
 - CI/CD Pipelines  
+- GUI Development  
 
 ---
 
