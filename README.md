@@ -2,7 +2,7 @@
 
 🚀 **Full-Stack & AI Developer** | **GenAI Enthusiast** | **B.Tech CSE @ IIIT SriCity**
 
-I’m a driven developer with hands-on experience building **production-ready full-stack applications** and **AI-powered systems**.  
+I'm a driven developer with hands-on experience building **production-ready full-stack applications** and **AI-powered systems**.  
 My interests lie at the intersection of **Web Development, Machine Learning, and Generative AI** — turning ideas into scalable solutions.
 
 ---
@@ -27,7 +27,7 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 
 ---
 
-### Kumar’s Innovations — *Front End Intern*  
+### Kumar's Innovations — *Front End Intern*  
 🌐 Remote | **Dec 2024 – Jan 2025**  
 - Built a **responsive company website using React**, improving performance and cross-device usability.  
 - Collaborated with a remote team of 4+ members to deliver milestones on time.  
@@ -67,6 +67,15 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 - Fine-tuned **GPT-2** on custom poetry datasets.  
 - Built preprocessing pipelines for text normalization.  
 - Developed a **Streamlit web app** for real-time poem generation with controllable parameters.  
+
+---
+
+### SnapURL — URL Shortener  
+**Tech:** Node.js, Express, MongoDB, Mongoose, Google OAuth 2.0, Passport.js  
+- Built a secure URL shortening service with persistent link storage and fast 301 redirects.  
+- Added **Google OAuth 2.0 authentication** via Passport.js for secure user login and personal short link management.  
+- Created a polished vanilla JS frontend with responsive UI, dark mode, and live analytics for generated links.  
+- Enabled cloud deployment readiness with **Render Blueprints** and **GitHub Actions CI integration**.  
 
 ---
 
