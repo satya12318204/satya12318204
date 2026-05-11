@@ -7,6 +7,21 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 
 ---
 
+## 📊 GitHub Stats & Badges
+
+[![GitHub followers](https://img.shields.io/github/followers/satya12318204?style=social)](https://github.com/satya12318204)
+[![GitHub Stars](https://img.shields.io/github/stars/satya12318204?style=social)](https://github.com/satya12318204)
+
+![Profile Views](https://komarev.com/ghpvc/?username=satya12318204&color=blueviolet)
+
+**GitHub Contributions:**
+- 📈 Active contributor with consistent commits
+- 🔧 Pull Requests & Code Reviews
+- ⚙️ GitHub Actions CI/CD integration across projects
+- 🎯 Project automation and workflow optimization
+
+---
+
 ## 👀 About Me
 - 💻 Strong in **Full Stack Development (MERN, Next.js)**  
 - 🤖 Experience with **Generative AI, GANs, NLP, OCR, and Hugging Face models**  
@@ -111,6 +126,7 @@ My interests lie at the intersection of **Web Development, Machine Learning, and
 - MongoDB, MySQL  
 - Docker  
 - Maven  
+- GitHub Actions  
 - VS Code  
 
 ### 🧠 Concepts
