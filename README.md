@@ -221,17 +221,6 @@ Currently pursuing **B.Tech in Computer Science at IIIT SriCity** (CGPA: 8.0/10)
 
 ---
 
-## 🎯 What Recruiters Should Know
-
-✅ **Production-Ready Code:** Ships scalable, tested, and documented solutions
-✅ **Full-Stack Expertise:** End-to-end development from frontend to deployment
-✅ **AI/ML Capabilities:** Hands-on experience with modern generative AI tools
-✅ **DevOps Mindset:** CI/CD automation, Docker, and cloud deployment ready
-✅ **Team Collaborator:** Remote experience with cross-functional teams
-✅ **Fast Learner:** Quick to adopt new technologies and best practices
-✅ **Problem Solver:** Data-driven approach to debugging and optimization
-
----
 
 ## 📊 GitHub Activity
 
